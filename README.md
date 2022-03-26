@@ -2,8 +2,8 @@
 
 <p><em>Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/ifza-arain-0b922b102/)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/Ifza15011319)
+[![Linkedin Badge](https://img.shields.io/badge/-Ifza%20Arain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifza-arain-0b922b102)](https://www.linkedin.com/in/ifza-arain-0b922b102/)
+[![Twitter Badge](https://img.shields.io/badge/-@Ifza_Rasool_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ifza15011319)](https://twitter.com/Ifza15011319)
 ![](https://komarev.com/ghpvc/?username=IfzaRasool&color=152136)
 
 ### 🛠 I code using
